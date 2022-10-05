@@ -5,9 +5,9 @@ export default function Resultado() {
     const {id} = useParams();
 
     return(
-        <div>
+        <dv>
             <h1>Resultado</h1>
             <p>O resultado é {id}</p>
-        </div>
+        </dv>
     );
 };
